@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ti1 | head l0
+ls -t1 | head l0
